@@ -1,0 +1,2 @@
+- put 명령어는 기본적으로 소스 디렉토리 구조를 대상 디렉토리에 그대로 복사함
+- put from: './integration/shell/', into: '/svc/batch' 명령어는 -> ./integration/shell/test/cust/ 디렉토리에 있는 파일들은 /svc/batch/shell/test/cust/ 경로로 전송
