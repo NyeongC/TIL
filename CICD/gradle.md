@@ -1,2 +1,3 @@
 - put 명령어는 기본적으로 소스 디렉토리 구조를 대상 디렉토리에 그대로 복사함
 - put from: './integration/shell/', into: '/svc/batch' 명령어는 -> ./integration/shell/test/cust/ 디렉토리에 있는 파일들은 /svc/batch/shell/test/cust/ 경로로 전송
+- put from: shellPath, into: shellLocation, **flatten: true** 이런것 처럼 (디렉토리 구조 무시) 가능함.
