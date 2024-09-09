@@ -25,6 +25,13 @@
 - 리팩토링 전후 코드 비교
 - 개선된 부분 설명 및 테스트 결과
 
+### 실습 정리
+#### 환경설정
+- IntelliJ IDE / Project Structure / JDK / corretto-21.0.4
+- junit.jupiter / org.junit.jupiter:junit-jupiter:5.9.3
+- shift + shift + (? 콘솔출력)
+
+
 ### 느낀 점
 - 따라 가기 마냥 쉽지 않음
 - 확실히 코드가 가독성이 좋아짐
