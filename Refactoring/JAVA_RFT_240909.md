@@ -29,7 +29,7 @@
 #### 환경설정
 - IntelliJ IDE / Project Structure / JDK / corretto-21.0.4
 - junit.jupiter / org.junit.jupiter:junit-jupiter:5.9.3
-- shift + shift + (? 콘솔출력)
+- shift + shift + (구성 - 실행/디버구 구성 - TexttestFixture - 수정 - 콘솔 출력을 파일에 저장 - 경로 설정)
 
 
 ### 느낀 점
