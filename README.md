@@ -53,7 +53,6 @@ docs: DI 개념 정리
 docs: Redis rate limit 구조 정리  
 
 여러 주제를 함께 커밋하는 경우:
-
 git commit -m "docs: DI, JWT 개념 정리"
 
 ---
